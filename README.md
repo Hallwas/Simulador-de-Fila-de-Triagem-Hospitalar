@@ -1,2 +1,4 @@
 # Simulador-de-Fila-de-Triagem-Hospitalar
-Trabalho final C++
+Trabalho final em C++
+Feito por André Bohm Hallwass 
+Matricula - 208275
